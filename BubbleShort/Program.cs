@@ -8,10 +8,8 @@ namespace BubbleShort
 {
     class BubbleShort
     {
-        public void display()
-        {
+       
 
-        }
     }
     internal class Program
     {
