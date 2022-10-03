@@ -93,6 +93,7 @@ namespace BubleShort
 
             // Exit
             Console.WriteLine("\n\nTekan Tombol Apa Saja Untuk Keluar. ");
+            Console.Read();
         }
     }
 }
