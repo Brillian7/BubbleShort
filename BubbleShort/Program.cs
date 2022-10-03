@@ -8,8 +8,10 @@ namespace BubbleShort
 {
     class BubbleShort
     {
-       
+       public void daily()
+        {
 
+        }
     }
     internal class Program
     {
